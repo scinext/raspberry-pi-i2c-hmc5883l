@@ -1,0 +1,1 @@
+raspberry-pi-i2c-hmc5883l
